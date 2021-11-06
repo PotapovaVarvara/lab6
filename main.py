@@ -17,3 +17,4 @@ while i <= N:
 # write to a new file
 fwrite = open("d:\pyton\lab6\lab_result.txt", "w")
 fwrite.write(resultString)
+fwrite.close()
